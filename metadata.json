@@ -1,0 +1,6 @@
+{
+  "name": "الرضوان للحسابات",
+  "description": "نظام الرضوان لإدارة الحسابات والمخازن والعملاء والموردين والفواتير وسندات الصرف والقبض",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
